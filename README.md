@@ -1,22 +1,22 @@
-= XYZ Reader Starter Code
+## XYZ Reader Starter Code
 
 This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
 
-=== Project Overview
+### Project Overview
 In this project, you will redesign an app to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app.
 
-== Why this Project?
+### Why this Project?
 This project gives you an opportunity to improve an app’s design, a vital skill for building apps users will love. It also replicates a common developer task of updating and changing an app's design as new standards are released.
 
-=== What Will I Learn?
+### What Will I Learn?
 Through this project, you will:
 
-Understand the fundamentals of Android design.
-Apply Material Design guidelines to an mobile application.
-Separate an interface into surfaces.
-Effectively use transitions and motion.
+* Understand the fundamentals of Android design.
+* Apply Material Design guidelines to an mobile application.
+* Separate an interface into surfaces.
+* Effectively use transitions and motion.
 
-=== Mocks from the app
+### Mocks from the app
 
 ![device-2018-11-15-220137](https://user-images.githubusercontent.com/827584/48567013-2f81dd80-e922-11e8-8f26-62c5031eeb57.png)
 
