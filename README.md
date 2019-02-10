@@ -16,12 +16,12 @@ Through this project, you will:
 * Separate an interface into surfaces.
 * Effectively use transitions and motion.
 
-### Mocks from the app
+### Mocks from the app that I finally implemented
 
-![device-2018-11-15-220137](https://user-images.githubusercontent.com/827584/48567013-2f81dd80-e922-11e8-8f26-62c5031eeb57.png)
+<img src="https://user-images.githubusercontent.com/827584/48567013-2f81dd80-e922-11e8-8f26-62c5031eeb57.png" width="400">
 
-![device-2018-11-15-220155](https://user-images.githubusercontent.com/827584/48567014-2f81dd80-e922-11e8-89a6-aeb1dccadd65.png)
+<img src="https://user-images.githubusercontent.com/827584/48567014-2f81dd80-e922-11e8-89a6-aeb1dccadd65.png" width="250">
 
-![device-2018-11-15-220222](https://user-images.githubusercontent.com/827584/48567015-301a7400-e922-11e8-8127-f746ea9f98f4.png)
+<img src="https://user-images.githubusercontent.com/827584/48567015-301a7400-e922-11e8-8127-f746ea9f98f4.png" width="250">
 
-![device-2018-11-15-220008](https://user-images.githubusercontent.com/827584/48567024-327cce00-e922-11e8-825c-091e57de9a3d.png)
+<img src="https://user-images.githubusercontent.com/827584/48567024-327cce00-e922-11e8-825c-091e57de9a3d.png" width="250">
