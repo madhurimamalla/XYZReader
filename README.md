@@ -22,6 +22,6 @@ Through this project, you will:
 
 <img src="https://user-images.githubusercontent.com/827584/48567014-2f81dd80-e922-11e8-89a6-aeb1dccadd65.png" width="250">
 
-<img src="https://user-images.githubusercontent.com/827584/48567015-301a7400-e922-11e8-8127-f746ea9f98f4.png" width="250">
+<img src="https://user-images.githubusercontent.com/827584/48567015-301a7400-e922-11e8-8127-f746ea9f98f4.png" width="400">
 
 <img src="https://user-images.githubusercontent.com/827584/48567024-327cce00-e922-11e8-825c-091e57de9a3d.png" width="250">
